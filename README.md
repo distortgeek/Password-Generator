@@ -1,3 +1,3 @@
-# Password-Manager
+# Password-Generator
 
-A Simple Password Manager. :)
+A Simple Password Generator. :)
