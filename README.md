@@ -1,7 +1,3 @@
-Here's a README file tailored for your Password Generator repository:
-
----
-
 # Password Generator
 
 ## Overview
